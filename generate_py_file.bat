@@ -1,0 +1,1 @@
+pyuic5 -x todo.ui -o todo.py
